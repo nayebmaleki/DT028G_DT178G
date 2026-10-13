@@ -1,0 +1,5 @@
+student_arbete/minmax
+*.o
+.vscode/
+.idea/
+.DS_Store
